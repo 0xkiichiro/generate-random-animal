@@ -22,10 +22,18 @@ button {
   color: lightblue;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 1rem;
-  width: 1440px;
+  width: 800px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+.display ul {
+  list-style: none;
+}
+
+.display ul li {
+  padding: 0.5rem;
 }
