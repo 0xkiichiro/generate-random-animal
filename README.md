@@ -10,7 +10,7 @@ HTML, CSS, JS
 
 ## Check the full-functioning site at: https://0xkiichiro.github.io/generate-random-animal/
 
-![]()
+![](https://github.com/0xkiichiro/generate-random-animal/blob/master/Animation.gif)
 
 ## Comments
 
